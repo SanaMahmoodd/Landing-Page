@@ -18,4 +18,4 @@ This project is a responsive landing page built dynamically with JavaScript. It 
 - None. Pure HTML, CSS, and JavaScript.
 
 ## Author
-Created by [Sana Saleh].# Landing-Page
+Created by [Sana Saleh].
